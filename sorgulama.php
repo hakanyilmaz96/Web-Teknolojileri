@@ -10,7 +10,7 @@ if($username and $password){
 header("location:login.html");
 }
 if($usercontrol == $username and $passcontrol == $password){
-    echo "HOŞGELDİNİZ g181210382";
+    echo "HOŞGELDİNİZ G181210382";
     header("Refresh: 3; url=index.html");
 }
 else{ 
